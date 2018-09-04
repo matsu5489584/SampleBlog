@@ -45,7 +45,7 @@ header {
   text-decoration: none;
 }
 .text-title {
-  font-size: 15px;
+  font-size: 20px;
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 20px;
@@ -59,14 +59,14 @@ header {
 }
 
 .left-contents {
-  width: 700px;
+  width: 600px;
   margin-right: 20px;
   float: left;
   color: skyblue;
      }
 
 .right-contents {
-  width: 200px;
+  width: 300px;
   float: left;
 }
 .information-list {
