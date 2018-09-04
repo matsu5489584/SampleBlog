@@ -45,7 +45,7 @@ header {
   text-decoration: none;
 }
 .text-title {
-  font-size: 24px;
+  font-size: 15px;
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 20px;
@@ -57,11 +57,13 @@ header {
   margin-bottom: 20px;
   background-color: #fff;
 }
+
 .left-contents {
   width: 700px;
   margin-right: 20px;
   float: left;
-}
+  color: skyblue;
+     }
 
 .right-contents {
   width: 200px;
