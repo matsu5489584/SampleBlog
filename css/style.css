@@ -77,3 +77,24 @@ header {
 .information-list li {
   margin-bottom: 10px;
 }
+.blog-left-contents {
+  float: left;
+  width: 25%;
+}
+.blog-right-contents{
+  float: left;
+  width: 75%
+}
+.new-blog-left-contents{
+  float: left;
+  width: 25%;
+}
+.new-blog-right-contents{
+  float: left;
+  width: 75%
+}
+.card-contents:after{
+  clear: both;
+  display: block;
+  content: " ";
+}
