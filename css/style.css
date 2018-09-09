@@ -1,5 +1,5 @@
 body {
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 header {
   margin-top: 20px;
@@ -62,7 +62,7 @@ header {
   width: 600px;
   margin-right: 20px;
   float: left;
-  color: skyblue;
+  color: black;
      }
 
 .right-contents {
@@ -94,6 +94,18 @@ header {
   width: 75%
 }
 .card-contents:after{
+  clear: both;
+  display: block;
+  content: " ";
+}
+a{color: skyblue;
+  text-decoration: none;
+}
+.copyright {
+  color: #777;
+  text-align: center;
+}
+.main:after {
   clear: both;
   display: block;
   content: " ";
